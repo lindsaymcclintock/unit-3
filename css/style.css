@@ -17,3 +17,11 @@
     font-size: 1.5em;
     font-weight: bold;
 }
+
+.states {
+    fill: #6e6e6e70;
+    stroke: #787878;
+    stroke-width: 1px;
+    fill-opacity: 0.5;
+}
+
