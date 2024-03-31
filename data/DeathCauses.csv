@@ -1,4 +1,4 @@
-ID,STATE,Heart_Disease,Cancer,Respiratory,Diabetes,Stroke,Alzheimers
+ID,STUSPS,Heart Disease,Cancer,Respiratory Disease,Diabetes,Stroke,Alzheimer's Disease
 1,AL,247.5,160.2,50.9,26.3,54.9,46.8
 2,AK,154.7,156,35,27,42.3,26.4
 3,AZ,158.3,134.7,36.7,27.3,36.1,30.5
